@@ -16,14 +16,11 @@ The purpose of the ANLY-580 final project is to give you experience working on a
 
 **(a) Default projects**
 
-- Question answering system using model pretrained on SQuAD
+- Question answering system
 - Keyboard autocorrect / autocomplete
-- Twitter hate speech detection
 - Text summarization system
-- News headline classification
 - Topic modeling of a specific text corpus / research field
 - Research paper retrieval system
-- Product review sentiment analyzer
 - A task-oriented chatbot
 
 
@@ -40,7 +37,8 @@ The scope and deliverables need to be established and agreed upon with the instr
 | :-----------------: | :------: |
 | Group selection     |  Oct 17  |
 | Project proposal    |  Nov 10  |
-| Presentation / Demo |  Dec 08  |
+| Presentation / Demo |  Last day of class |
+| Final submission | Dec 08 |
 
 #
 ## Deliverables
@@ -49,7 +47,7 @@ The scope and deliverables need to be established and agreed upon with the instr
 | :-----------------: | :------: |
 | Group selection     |     5%   |
 | Project proposal    |    20%   | 
-| Presentation / Demo |    75%   |
+| Presentation / Demo / Report |    75%   |
 
 #
 ## Github classroom
@@ -60,7 +58,7 @@ Course projects will be submitted through Github Classroom. Instructions will be
 ## Rubric
 
 1. Group selection:
-    a. Submit group selection via email/Discord to the instructor AND TAs no later than 11:59PM EST on Oct 17th. You are free to team up with students from outside your section.
+    a. Submit group selection via email/Discord to the instructor AND TAs no later than 11:59PM EST on Oct 17th. You are free to team up with students from any section.
 
 2. Project proposal: The project proposal will be a written outline that details the following items (this needs to be discussed with the instructor during office hours prior to submission):
 
@@ -75,10 +73,15 @@ Course projects will be submitted through Github Classroom. Instructions will be
 
     c. How will the results of your work be presented? Will this be a live demo, a written report, a slide deck + oral presentation? Any of these are acceptable! Demos can be given along with reports/presentations.
 
-3. Final submission: The final submission will be graded on a number of axes. For a project that is modestly ambitious in it's end goal, heavy emphasis will be placed on the quality of the demo/presentation/report, whether or not the system is thoroughly evaluated, and how close you come to achieving the deliverables stated in your proposal. Sometimes things don't always go as planned, and you should have this expectation from the start. When this happens, make sure to demonstrate that you understand the underlying issue(s); this will be considered when we assign grades. For more ambitious projects, heavier focus will be placed on individual results. For example, if your final project is to re implement a popular transformer architecture from scratch, or tweak some existing modeling approach in unique way, then success in any one area (for example just getting a model to train) will be considered much more heavily. The intention here is to allow everyone to get real world experience working on a real problem within their comfort zone.
+3. Final submission: 
+   
+   a. Each group will present their project during the last day of class. Presentations will be 20 minutes. The format of your presentation is completely up to you, the only requirement is that you effectively convey your work. A slide deck makes a lot of sense for the presentation, though this is not an absolute requirement. Any combination of a slide deck, a report, and/or demo is acceptable.
+   
+   b. The final submission will be graded on a number of axes. For a project that is modestly ambitious in it's end goal, heavy emphasis will be placed on the quality of the demo/presentation/report, whether or not the system is thoroughly evaluated, and how close you come to achieving the deliverables stated in your proposal. Sometimes things don't always go as planned, and you should have this expectation from the start. When this happens, make sure to demonstrate that you understand the underlying issue(s); this will be considered when we assign grades. For more ambitious projects, heavier focus will be placed on individual results. For example, if your final project is to re implement a popular transformer architecture from scratch, or tweak some existing modeling approach in unique way, then success in any one area (for example just getting a model to train) will be considered much more heavily. The intention here is to allow everyone to get real world experience working on a real problem within their comfort zone.
 
-*Note:* If you are having a hard time coming up with your own project idea, we recommend you choose one of the default projects (or something closely related). Also, if you need assistance with finding a partner/group, please contact one of the TAs or the instructor ASAP.
+***Note 1**: If you need help coming up with a project idea, we recommend you choose one of the default projects (or something closely related). Also, if you need assistance with finding a partner/group, please contact the teaching staff.*
 
+***Note 2:** A signup sheet will be released in mid/late Novemeber. Timeslots are first come first serve. You are free to present during any of the three sections, however you may be asked to change your timeslot to accomodate everyone's schedule.*
 
 #
 ## Example projects
